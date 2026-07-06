@@ -51,9 +51,12 @@ Project Structure
 
  Project Screenshots
 
+
+
 Amazon S3
 
 <img width="1365" height="625" alt="s3_bucket1" src="https://github.com/user-attachments/assets/04f224d7-ef47-4b4a-92fb-b4156c2cee6b" />
+
 
 <img width="1354" height="600" alt="s3_bucket2" src="https://github.com/user-attachments/assets/11e4e693-7af5-4eff-ac5a-a4c92e00ec77" />
 
@@ -65,6 +68,7 @@ Amazon S3
 
 
 
+
 AWS Glue ETL Job
 
 <img width="1365" height="627" alt="glue_job" src="https://github.com/user-attachments/assets/8d0481d2-db0d-41aa-9d99-b3224fac9255" />
@@ -73,6 +77,7 @@ AWS Glue ETL Job
 
   Amazon Athena Query
 <img width="1366" height="768" alt="athena_query" src="https://github.com/user-attachments/assets/0fb41ed4-b05e-44a4-911f-6e928527a087" />
+
 
  Author
 Priyanshi Sain
